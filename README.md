@@ -1,7 +1,7 @@
 # Disentangling Dynamic World in the Mirror for Intuitive Explainability in Deep RL
 
 <br>
-<img src="./saved_images/cover.png" width="100%">
+<img src="./saved_images/Cover.png" width="100%">
 <div align="center">
 Latent Space Trajectories of 20 Applications Colored by Different RL Agents
 </div>
